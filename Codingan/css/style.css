@@ -69,7 +69,13 @@ body {
     }
 }
 
-
+.jenis-batik{
+    margin-top: 130px;
+}
+.jumbotron-heading{
+    font-size: 30px;
+    font-weight: 400;
+}
 /*
 .jumbotron h1 {
     color: white;
