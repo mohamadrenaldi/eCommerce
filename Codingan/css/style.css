@@ -1,13 +1,14 @@
 body {
     font-family: "Poppins";
 }
-
+/*
 .body {
     background: url(../../bg.jpg) center center;
     background-size: cover;
     background-attachment: fixed;
     background-repeat: no-repeat;
 }
+*/
 
 .nav-item {
     margin-right: 24px;
@@ -319,4 +320,18 @@ label {
     -moz-background-size: 100% 100%;
     -o-background-size: 100% 100%;
     background-size: 100% 100%;
+}
+
+.footer-header{
+    font-size: 30px;
+    font-family: 'Poppins';
+    font-weight: 400;
+    color: #171717;
+    margin-top: 150px;
+}
+.footer-isi{
+    margin-top: 10px;
+    font-size: 20px;
+    font-family: 'Poppins';
+    color: grey;
 }
